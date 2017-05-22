@@ -1,0 +1,12 @@
+package View;
+
+public class ValidateThread implements Runnable {
+	
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
